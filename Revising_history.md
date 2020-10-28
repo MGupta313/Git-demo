@@ -5,7 +5,7 @@ Many times, when working with Git, you may want to revise your local commit hist
 ## Changing the Last Commit  
 Changing your most recent commit is probably the most common rewriting of history that you’ll do.  
 You’ll often want to do two basic things to your last commit: 
-1. Simply _change the commit message_, or 
+1. Simply _change the commit message_
 
 `git commit --amend`
 
