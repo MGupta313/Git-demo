@@ -13,4 +13,4 @@
 `git branch -c [<oldbranch>] <newbranch>`
 
 ## Pushing a local branch to remote  
-`git push (-u|--set-upstream) origin <branchname>`
+`git push (-u|--set-upstream) origin <branchname>
