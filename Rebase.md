@@ -13,6 +13,7 @@ pick 64a30fd Update Fetch_merge_example.txt
 pick 20f5828 Create Creating_New_Branch.md
 pick 1d6367e Rename GoToCommands.md to Go_To_Commands.md
 
+***
 # Rebase 7fded00..1d6367e onto 7fded00 (3 commands)
 #
 # Commands:
@@ -36,7 +37,7 @@ pick 1d6367e Rename GoToCommands.md to Go_To_Commands.md
 # If you remove a line here THAT COMMIT WILL BE LOST.
 #
 # However, if you remove everything, the rebase will be aborted.
-
+***
 
 
 
