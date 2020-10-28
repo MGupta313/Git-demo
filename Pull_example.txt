@@ -1,2 +1,4 @@
 This is a file to test git pull.
 
+git pull origin YOUR_BRANCH_NAME
+(This grabs online updates and merges them with your local copy.)
