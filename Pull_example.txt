@@ -1,0 +1,10 @@
+This is a file to test git pull.
+
+Created this file on the remote repo without having any it in the local repo. If the local repo is behind the remote repo, it will give you an error when you are pushing any change from local to remote.
+
+Will test this with pushing a file called push_test.txt from the local repo to remote.
+
+For this you need to:
+
+git pull origin YOUR_BRANCH_NAME
+(This grabs online updates and merges them with your local copy.)
