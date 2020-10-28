@@ -2,6 +2,7 @@
 
 ## Step1: Cloning a repo  
 `git clone  <clone_repo_url>`
+![clone.png](https://github.com/MGupta313/Git-demo/blob/main/Clone.png)
 
 ## Step2: Making changes in the local copy of the repo  
 Add any file or make changes to a current file or delete a file
